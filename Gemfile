@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "http://uglythumb.github.io"
 
 gem "autoprefixer-rails"
 gem "html-proofer"
